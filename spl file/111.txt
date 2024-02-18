@@ -1,0 +1,1 @@
+已执行的 SQL 语句：load data local infile 'C:\\Users\\Besta 00\\Desktop\\zonghe\\na3 v3.4\\na3 v3.4\\na3\\spl file\\ceci.csv' into table `navigateg`.`spot` character set 'utf8' fields escaped by '\\' terminated by '\t' lines terminated by '\n' (`spid`, `spname`, `description`)错误号：3948错误信息：Loading local data is disabled; this must be enabled on both the client and server sides
